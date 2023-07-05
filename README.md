@@ -2,7 +2,7 @@
 
 # https://replit.com/@odikil/ciclos-2
 
-### Realizado en Replit ejecutable:
+### Realizado en Replit --> Ejecutar:
 ```RUN```
 
 #### Incluye los siguientes CICLOS:
