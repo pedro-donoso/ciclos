@@ -1,3 +1,7 @@
+![200px-Ruby_logo svg](https://github.com/pedro-donoso/ciclos/assets/68760595/05d44d9b-c0fd-4115-86ba-d34df530b51f)
+
+# https://replit.com/@odikil/ciclos-2
+
 # Ruby on Replit
 
 This is a template to get you started with Ruby on Replit. It's ready to go so you can just hit run and start coding!
