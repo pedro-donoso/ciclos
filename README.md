@@ -1,4 +1,4 @@
-![200px-Ruby_logo svg](https://github.com/pedro-donoso/ciclos/assets/68760595/05d44d9b-c0fd-4115-86ba-d34df530b51f)
+![ruby](https://github.com/pedro-donoso/ciclos/assets/68760595/e60d1705-507d-4069-af3a-63d64261cc31)
 
 # https://replit.com/@odikil/ciclos-2
 
